@@ -26,6 +26,8 @@ curl -X 'GET' \
   'http://127.0.0.1:8000/api/v1/subfeddit_catagory?subfeddit_name=Dummy%20Topic%201&sort_by_polarity=true' \
   -H 'accept: application/json'
 ```
+#### Pre-requisite
+Please run the feddit-api application before run this fastapi application.
 
 #### To Create Virtual Environment
 
