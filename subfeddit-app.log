@@ -1,0 +1,47 @@
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:Subfeddit analysis started for subfeddit Dummy Topic 1
+INFO:feddit_app:Request recieved from 127.0.0.1
+INFO:feddit_app:Getting comments by subfeddit name Dummy Topic 1
+INFO:feddit_app:forming all subfeddit url
+INFO:feddit_app:Calling all subfeddit url
+INFO:feddit_app:Getting all comments by subfeddit id 1
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:Getting sentiment score for comments
+INFO:feddit_app:Sorting results as per polarity score
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:Subfeddit analysis started for subfeddit Dummy Topic 1
+INFO:feddit_app:Request recieved from 127.0.0.1
+INFO:feddit_app:Getting comments by subfeddit name Dummy Topic 1
+INFO:feddit_app:forming all subfeddit url
+INFO:feddit_app:Calling all subfeddit url
+INFO:feddit_app:Getting all comments by subfeddit id 1
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:NLTK VADER lexicon data is already present.
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:forming all comments url
+INFO:feddit_app:Getting sentiment score for comments
