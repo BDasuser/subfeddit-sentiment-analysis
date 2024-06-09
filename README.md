@@ -27,7 +27,8 @@ curl -X 'GET' \
   -H 'accept: application/json'
 ```
 #### Pre-requisite
-Please run the feddit-api application before run this fastapi application.
+Please run the feddit-api application before run this fastapi application. Provide the ip and port detail of feedit app inside app/config/config.ini file against key
+feddit_host and feddit_port
 
 #### To Create Virtual Environment
 
